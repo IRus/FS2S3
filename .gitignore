@@ -3,6 +3,7 @@
 .idea
 *.iml
 build
+out
 
 # User Files
 env.sh
