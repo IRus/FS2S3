@@ -13,5 +13,5 @@ Sync local holder with S3.
 Available commands:
 
 * pull - will rewrite all files in directory.
-* push - will rewrite all file in s3.
+* push - will rewrite all files in s3.
 * list
