@@ -1,0 +1,8 @@
+# Build and Idea
+.gradle
+.idea
+*.iml
+build
+
+# User Files
+env.sh
